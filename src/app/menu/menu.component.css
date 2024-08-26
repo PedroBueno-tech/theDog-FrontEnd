@@ -1,0 +1,23 @@
+#menuImg{
+  width: 200px;
+  height: auto;
+}
+#userImg{
+  width: 50px;
+  height: 50px;
+  border: 2px black;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+#moneyImg{
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+#menuBarDiv{
+  width: 100%;
+}
+p{
+  color: aliceblue;
+}
+

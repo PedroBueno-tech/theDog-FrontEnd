@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'theDog-FrontEnd';
+  initialPage: boolean = true;
+  startGameEvent(value: boolean){
+  this.initialPage = value;
+  }
 }

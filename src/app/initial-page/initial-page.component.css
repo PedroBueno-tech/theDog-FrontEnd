@@ -1,0 +1,14 @@
+#textoInicial{
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #2b2b2b;
+  border-radius: 10px;
+  color: aliceblue;
+}
+#btnStart{
+  width: 200px;
+  height: 100px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
